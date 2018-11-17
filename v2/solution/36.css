@@ -1,0 +1,31 @@
+/*
+ *  assignment 36 solution
+ */
+
+.container {
+  background-color: #ff0;
+  width: 700px;
+  margin: 0 auto;
+}
+.container .wrapper {
+  background-color: #f00;
+  float: right;
+  width: 500px;
+}
+
+.container .navigation {
+  background-color: #0f0;
+  float: right;
+  width: 200px;
+}
+
+.container .extra {
+  background-color: #00f;
+  width: 500px;
+  clear: right;
+  float: right;
+}
+
+.container .footer {
+  clear: both;
+}

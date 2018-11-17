@@ -1,0 +1,28 @@
+/**
+ *  assignment 1 solution
+ *  negative margin
+ */
+
+.container .wrapper {
+  background-color: #f00;
+  float: left;
+  margin: 0 25%;
+}
+
+.container .navigation {
+  background-color: #0f0;
+  float: left;
+  width: 25%;
+  margin-left: -100%;
+}
+
+.container .extra {
+  background-color: #00f;
+  float: left;
+  width: 25%;
+  margin-left: -25%;
+}
+
+.container .footer {
+  clear: both;
+}

@@ -1,0 +1,25 @@
+/*
+ *  assignment 37 solution
+ */
+
+.container {
+  background-color: #ff0;
+  width: 700px;
+  margin: 0 auto;
+}
+.container .wrapper {
+  background-color: #f00;
+  float: left;
+  width: 500px;
+}
+
+.container .navigation {
+  background-color: #0f0;
+  float: left;
+  width: 200px;
+}
+
+.container .extra {
+  background-color: #00f;
+  clear: both;
+}

@@ -1,0 +1,27 @@
+/*
+ *  assignment 18 solution
+ */
+
+.container .wrapper {
+  background-color: #f00;
+  float: right;
+  margin-left: 400px;
+}
+
+.container .navigation {
+  background-color: #0f0;
+  float: right;
+  width: 200px;
+  margin-right: -200px;
+}
+
+.container .extra {
+  background-color: #00f;
+  float: right;
+  width: 200px;
+  margin-right: -400px;
+}
+
+.container .footer {
+  clear: both;
+}

@@ -1,0 +1,34 @@
+/*
+ *  assignment 11 solution
+ */
+
+.container {
+  background-color: #FF0;
+  width: 700px;
+  margin: 0 auto;
+}
+
+.container .wrapper {
+  background-color: #f00;
+  float: left;
+  width: 400px;
+  margin-left: 300px;
+}
+
+.container .navigation {
+  background-color: #0f0;
+  float: left;
+  width: 150px;
+  margin-left: -550px;
+}
+
+.container .extra {
+  background-color: #00f;
+  float: left;
+  width: 150px;
+  margin-left: -700px;
+}
+
+.container .footer {
+  clear: both;
+}

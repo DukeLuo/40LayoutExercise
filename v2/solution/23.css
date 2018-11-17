@@ -1,0 +1,50 @@
+/*
+ *  assignment 23 solution
+ */
+
+/*
+ .container .wrapper {
+   background-color: #f00;
+   float: left;
+   width: calc(100% - 200px);
+ }
+
+ .container .navigation {
+   background-color: #0f0;
+   float: left;
+   width: 200px;
+ }
+
+ .container .extra {
+   background-color: #00f;
+   float: left;
+   width: 200px;
+ }
+*/
+
+.container .wrapper {
+  background-color: #f00;
+  float: left;
+  width: 100%;
+  margin-left: -200px;
+}
+
+.container .wrapper .content {
+  margin: 0 0 0 200px;
+}
+
+.container .navigation {
+  background-color: #0f0;
+  float: left;
+  width: 200px;
+}
+
+.container .extra {
+  background-color: #00f;
+  float: left;
+  width: 200px;
+}
+
+.container .footer {
+  clear: both;
+}

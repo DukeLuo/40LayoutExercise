@@ -1,0 +1,25 @@
+/*
+ *  assignment 28 solution
+ */
+
+.container .wrapper {
+  background-color: #f00;
+  float: right;
+  width: 100%;
+}
+
+.container .navigation {
+  background-color: #0f0;
+  float: right;
+  width: 50%;
+}
+
+.container .extra {
+  background-color: #00f;
+  float: right;
+  width: 50%;
+}
+
+.container .footer {
+  clear: both;
+}

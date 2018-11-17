@@ -1,0 +1,30 @@
+/*
+ *  assignment 24 solution
+ */
+
+.container .wrapper {
+  background-color: #f00;
+  float: right;
+  width: 100%;
+  margin-right: -200px;
+}
+
+.container .wrapper .content {
+  margin: 0 200px 0 0;
+}
+
+.container .navigation {
+  background-color: #0f0;
+  float: right;
+  width: 200px;
+}
+
+.container .extra {
+  background-color: #00f;
+  float: right;
+  width: 200px;
+}
+
+.container .footer {
+  clear: both;
+}

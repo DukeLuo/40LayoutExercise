@@ -1,0 +1,21 @@
+/*
+ *  assignment 29 solution
+ */
+
+.container .wrapper {
+  background-color: #f00;
+  float: right;
+  width: 70%;
+}
+
+.container .navigation {
+  background-color: #0f0;
+  float: right;
+  width: 30%;
+}
+
+.container .extra {
+  background-color: #00f;
+  width: 100%;
+  clear: both;
+}
